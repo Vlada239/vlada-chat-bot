@@ -1,1 +1,1 @@
-# vlada-chat-bot
+# VladaVKBot
